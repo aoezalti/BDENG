@@ -1,45 +1,45 @@
 station,geo_latitude,geo_longitude,available_bikes
-Hoher Markt,48.210666,16.372983,21
-Oper,48.202683,16.369702,3
-Volksgarten,48.206516,16.3604,9
+Hoher Markt,48.210666,16.372983,22
+Oper,48.202683,16.369702,7
+Volksgarten,48.206516,16.3604,14
 Stephansplatz U,48.207836,16.372111,3
-Taborstraße U2,48.219522,16.382218,19
+Taborstraße U2,48.219522,16.382218,17
 WU-Campus / Südportalstraße ,48.212856,16.407665,20
-Klima Biennale Zentrale - Radetzky Platz,48.210682,16.390221,14
+Klima Biennale Zentrale - Radetzky Platz,48.210682,16.390221,15
 Bahngasse / mdw-University of Music and Performing Arts,48.201628,16.384459,2
 Erdberg U3,48.190465,16.415318,22
-Media Quarter Marx,48.188763,16.404503,11
-Rennweg S,48.194261,16.386578,16
+Media Quarter Marx,48.188763,16.404503,12
+Rennweg S,48.194261,16.386578,15
 Rochusmarkt,48.203416,16.389789,10
 Schwarzenbergplatz,48.198852,16.376962,7
-Heumühlgasse,48.195304,16.363308,4
-Margaretengürtel U4,48.188489,16.343992,31
-Mittersteig,48.189735,16.361331,22
+Heumühlgasse,48.195304,16.363308,1
+Margaretengürtel U4,48.188489,16.343992,33
+Mittersteig,48.189735,16.361331,21
 Ceija-Stojka-Platz,48.207702,16.342199,1
-Volkstheater U,48.205994,16.356442,12
-Zieglergasse U3,48.196724,16.343985,0
-Berggasse,48.219182,16.366349,33
-Frankhplatz,48.215164,16.355172,10
-Friedensbrücke U4,48.226825,16.365311,20
-Spittelau S U,48.235289,16.35875,20
+Volkstheater U,48.205994,16.356442,11
+Zieglergasse U3,48.196724,16.343985,1
+Berggasse,48.219182,16.366349,35
+Frankhplatz,48.215164,16.355172,13
+Friedensbrücke U4,48.226825,16.365311,22
+Spittelau S U,48.235289,16.35875,21
 Alfred-Böhm-Park,48.167276,16.386339,13
 Altes Landgut U1,48.160985,16.383653,16
-Bloch-Bauer-Promenade,48.179521,16.385926,2
-Hauptbahnhof S U ,48.186287,16.375631,39
+Bloch-Bauer-Promenade,48.179521,16.385926,0
+Hauptbahnhof S U ,48.186287,16.375631,46
 Keplerplatz U1,48.179192,16.375793,7
-Absberggasse,48.172123,16.389296,9
+Absberggasse,48.172123,16.389296,2
 Gasometer U3,48.185253,16.417358,18
 Geiselbergstraße S,48.174951,16.406785,8
-Simmering S U,48.169601,16.420754,5
+Simmering S U,48.169601,16.420754,6
 Niederhofstraße U6,48.180233,16.330812,21
-Hietzing U4,48.187739,16.302814,25
+Hietzing U4,48.187739,16.302814,23
 Westbahnhof S U,48.19681,16.338577,18
-Richard-Wagner-Platz,48.210054,16.328049,17
+Richard-Wagner-Platz,48.210054,16.328049,16
 Alser Straße U6,48.216588,16.3416,6
-Währinger Straße U6,48.225482,16.349795,10
+Währinger Straße U6,48.225482,16.349795,9
 Gymnasiumstraße,48.236591,16.348719,14
-Handelskai S U,48.24201,16.384797,29
-Wallensteinplatz,48.229911,16.371579,33
+Handelskai S U,48.24201,16.384797,28
+Wallensteinplatz,48.229911,16.371579,16
 Brünner Straße S,48.267376,16.403725,11
 Floridsdorf S U,48.255621,16.400137,21
 Kultursommer24 - Großfeldsiedlung U1,48.271948,16.447562,5
@@ -48,17 +48,17 @@ Aspernstraße U2,48.223008,16.475255,14
 Donauspital U2,48.219878,16.464588,17
 Erzherzog-Karl-Straße S,48.229619,16.45357,13
 Hausfeldstraße S U,48.233624,16.486825,10
-Kagran U1,48.244086,16.433594,8
+Kagran U1,48.244086,16.433594,9
 Maria-Tusch-Straße,48.224719,16.498557,24
 Rennbahnweg U1,48.257535,16.44959,16
-Schüttauplatz,48.225856,16.423761,6
+Schüttauplatz,48.225856,16.423761,5
 Stadlau U 2,48.21978,16.44922,18
-VIC Kaisermühlen U1,48.232362,16.415692,18
+VIC Kaisermühlen U1,48.232362,16.415692,17
 Kagraner Platz U1,48.251071,16.443794,16
 Alterlaa U6,48.150204,16.317214,10
-Bacherplatz,48.188009,16.355089,2
-Margaretenplatz,48.191881,16.358912,5
-Carl-Appel-Straße,48.169012,16.343611,15
+Bacherplatz,48.188009,16.355089,3
+Margaretenplatz,48.191881,16.358912,3
+Carl-Appel-Straße,48.169012,16.343611,12
 Otto-Probst-Platz,48.15468,16.348017,5
 Laaer Berg / Kurpark Nordeingang,48.151915,16.401945,2
 Alaudagasse U1,48.15271,16.38247,4
@@ -76,14 +76,14 @@ Gatterhölzl,48.175409,16.320534,3
 Speising S,48.17377,16.282425,0
 Hasnerstraße / Hofferplatz,48.208195,16.332566,6
 Nietzscheplatz,48.220455,16.306062,0
-Wattgasse,48.217837,16.319961,0
+Wattgasse,48.217837,16.319961,2
 Grinzing,48.255793,16.342947,2
 Glanzing,48.24376,16.320682,1
-Oberdöbling S,48.244386,16.344711,23
-Kantergasse,48.278108,16.410042,13
+Oberdöbling S,48.244386,16.344711,22
+Kantergasse,48.278108,16.410042,0
 Leopoldau S U,48.278087,16.451058,12
 Josef-Baumann-Gasse / Vetmeduni,48.25227,16.430805,17
-Fultonstraße,48.253115,16.414226,9
+Fultonstraße,48.253115,16.414226,8
 Hopfengasse,48.27059,16.392704,3
 Jedlesee / Bellgasse,48.262127,16.387658,2
 Audorfgasse,48.271593,16.383093,0
@@ -96,133 +96,133 @@ Jakob-Bindel-Platz,48.246187,16.472797,14
 Atzgersdorf S,48.146654,16.287907,4
 Siebenhirten U,48.129845,16.310018,16
 Erlaaerstraße U6,48.141515,16.316855,9
-Perfektastraße U6,48.136398,16.313308,8
+Perfektastraße U6,48.136398,16.313308,7
 Hütteldorf / Hackinger Steg,48.196133,16.260386,1
-Praterstern Ausstellungsstraße,48.21785,16.395483,7
-Muthgasse,48.252055,16.369822,3
+Praterstern Ausstellungsstraße,48.21785,16.395483,8
+Muthgasse,48.252055,16.369822,2
 Liesing S,48.134253,16.283428,23
 Aspern Nord S U,48.234002,16.504943,2
-Seepark,48.226515,16.504506,8
+Seepark,48.226515,16.504506,7
 Seestadt U,48.224865,16.507619,9
-Schwedenplatz,48.211721,16.376628,24
+Schwedenplatz,48.211721,16.376628,25
 Waldmüllerpark,48.18136,16.367618,0
-Stubentor U,48.206812,16.380441,13
-Landstraße - Wien Mitte S U,48.205847,16.385246,25
-Praterstern S U,48.218454,16.390281,14
+Stubentor U,48.206812,16.380441,16
+Landstraße - Wien Mitte S U,48.205847,16.385246,24
+Praterstern S U,48.218454,16.390281,10
 Rustengasse,48.190832,16.326461,2
 Heiligenstadt S U,48.248272,16.36813,22
 Breitensee S,48.198242,16.306901,3
 Hütteldorf  S U,48.198076,16.261813,13
-Rathaus U2,48.211441,16.356586,2
+Rathaus U2,48.211441,16.356586,3
 Hans-Mandl-Berufsschule,48.181161,16.338769,15
 Dänenstraße / BOKU,48.23737,16.33448,48
 Schloss Schönbrunn,48.187201,16.312659,38
 Eslarngasse,48.196678,16.395204,23
-Plößlgasse,48.194578,16.377147,7
+Plößlgasse,48.194578,16.377147,6
 Schönbornpark,48.213164,16.351095,10
-Rossauer Lände U,48.222729,16.367425,17
-Lazarettgasse,48.219312,16.352461,8
+Rossauer Lände U,48.222729,16.367425,15
+Lazarettgasse,48.219312,16.352461,9
 Edelsinnstraße,48.170578,16.310926,1
-Karlsplatz U / TU Wien,48.199877,16.368227,23
+Karlsplatz U / TU Wien,48.199877,16.368227,27
 Amerlingstraße,48.197306,16.350981,0
-Albertgasse,48.210475,16.343998,3
-Universitätsring,48.21192,16.360781,24
-Herrengasse U,48.209724,16.366685,16
-Sensengasse,48.220335,16.35638,16
+Albertgasse,48.210475,16.343998,4
+Universitätsring,48.21192,16.360781,27
+Herrengasse U,48.209724,16.366685,15
+Sensengasse,48.220335,16.35638,18
 Belgradplatz,48.173666,16.361403,6
 Rathausplatz / Burgtheater,48.209923,16.360245,1
-Arbeitergasse,48.18392,16.345801,31
-Bauernfeldplatz / Palais Lichtenstein,48.221085,16.360193,23
-Johannesgasse,48.203384,16.376708,12
+Arbeitergasse,48.18392,16.345801,32
+Bauernfeldplatz / Palais Lichtenstein,48.221085,16.360193,22
+Johannesgasse,48.203384,16.376708,11
 Bischof-Faber-Platz,48.233868,16.325099,0
 Am Schöpfwerk U,48.160951,16.324922,17
-Alserbachstraße,48.225138,16.354893,10
-Petrusgasse,48.192988,16.398459,34
+Alserbachstraße,48.225138,16.354893,8
+Petrusgasse,48.192988,16.398459,31
 Wassergasse,48.199234,16.394335,16
 Löwengasse,48.2057,16.395998,17
 Kardinal-Nagl-Platz U,48.197069,16.400874,20
-Kärntner Ring,48.202161,16.3713,5
+Kärntner Ring,48.202161,16.3713,7
 Schottenring U,48.215972,16.372194,25
-Strozzigasse,48.207744,16.349122,12
-Yppengasse,48.214561,16.335624,7
-Stefan-Fadinger-Platz,48.168439,16.354862,1
+Strozzigasse,48.207744,16.349122,11
+Yppengasse,48.214561,16.335624,15
+Stefan-Fadinger-Platz,48.168439,16.354862,0
 Brünnlbadgasse,48.215262,16.346523,10
-Obere Augartenstraße,48.223,16.374752,18
+Obere Augartenstraße,48.223,16.374752,15
 Marschallplatz,48.165635,16.303146,17
-Ober St. Veit U,48.192296,16.274813,32
-Auf der Schmelz,48.203673,16.316414,17
+Ober St. Veit U,48.192296,16.274813,31
+Auf der Schmelz,48.203673,16.316414,16
 Grimmgasse,48.186805,16.327679,22
-Parhamerplatz,48.216137,16.328093,16
+Parhamerplatz,48.216137,16.328093,15
 Kendlerstraße,48.20359,16.30899,0
-Dornerplatz,48.221223,16.33459,15
+Dornerplatz,48.221223,16.33459,12
 Hernals S,48.22321,16.315256,12
 Schmelzbrücke,48.19623,16.330241,14
 Michelbeuern-AKH U,48.221804,16.343735,28
 Johann-Nepomuk-Vogl-Platz,48.223756,16.337543,6
-Mayerhofgasse,48.192892,16.367069,13
+Mayerhofgasse,48.192892,16.367069,14
 Westbahnstraße / Schottenfeldgasse,48.201942,16.343241,1
-Vorgartenstraße U,48.223192,16.399795,7
-Krieau U,48.214384,16.414663,2
-Ottakring S U,48.211841,16.311806,32
-Hartmanngasse ,48.187123,16.363965,5
+Vorgartenstraße U,48.223192,16.399795,6
+Krieau U,48.214384,16.414663,3
+Ottakring S U,48.211841,16.311806,31
+Hartmanngasse ,48.187123,16.363965,4
 Georg-Ehrlich-Weg,48.261666,16.440139,4
-Messe-Prater U2,48.217295,16.406163,30
+Messe-Prater U2,48.217295,16.406163,41
 Loquaipark,48.194597,16.349121,1
-Rosensteingasse,48.21955,16.326586,15
+Rosensteingasse,48.21955,16.326586,12
 Gumpendorfer Gürtel,48.18934,16.338321,37
-Burggasse-Stadthalle U,48.203657,16.337419,19
-Urban-Loritz-Platz,48.201034,16.337727,12
+Burggasse-Stadthalle U,48.203657,16.337419,17
+Urban-Loritz-Platz,48.201034,16.337727,20
 Hanusch Krankenhaus,48.19853,16.29393,16
 Westbahnhof S U / Gerstnerstraße,48.195315,16.337344,36
 Wieningerplatz,48.194063,16.31846,17
-Markgraf-Rüdiger Straße,48.202473,16.329897,22
+Markgraf-Rüdiger Straße,48.202473,16.329897,21
 Plunkergasse,48.199892,16.327151,16
 Selzergasse,48.196802,16.323095,14
-Westbahnhof S U / Felberstraße,48.197958,16.3377,28
+Westbahnhof S U / Felberstraße,48.197958,16.3377,27
 Kundratstraße,48.176146,16.355224,3
-Arthaberplatz,48.173447,16.371831,22
-Karmeliterplatz,48.215683,16.379649,6
+Arthaberplatz,48.173447,16.371831,20
+Karmeliterplatz,48.215683,16.379649,5
 Fröbelgasse,48.205827,16.330869,5
-Reumannplatz U,48.172937,16.378663,19
+Reumannplatz U,48.172937,16.378663,26
 Brestelgasse,48.214001,16.330753,10
-Thaliastraße U,48.207995,16.337984,13
+Thaliastraße U,48.207995,16.337984,11
 Nussdorfer Straße U,48.231717,16.353124,14
 Elterleinplatz,48.218034,16.332358,9
 Canisiusgasse,48.229011,16.354359,1
-Palffygasse,48.217217,16.337131,12
+Palffygasse,48.217217,16.337131,10
 Gersthof S,48.231029,16.329505,7
-Reinprechtsdorfer Brücke,48.189633,16.351143,13
-Siebensternplatz,48.202223,16.352486,5
-Siebenbrunnenplatz,48.184975,16.352986,7
+Reinprechtsdorfer Brücke,48.189633,16.351143,14
+Siebensternplatz,48.202223,16.352486,4
+Siebenbrunnenplatz,48.184975,16.352986,6
 Rosensteingasse / Blumengasse,48.222824,16.328474,17
-Schottenring U /Herminengasse,48.217784,16.373083,10
+Schottenring U /Herminengasse,48.217784,16.373083,6
 Josefstädter Straße U,48.212106,16.33912,1
 Friedrich-Engels-Platz,48.244111,16.379304,16
 Dresdner Straße U,48.237487,16.380363,21
-Jägerstraße U,48.235062,16.369919,23
-Kultursommer24 - Traisengasse S,48.233821,16.383263,10
-Kettenbrückengasse U ,48.196328,16.357468,13
+Jägerstraße U,48.235062,16.369919,22
+Kultursommer24 - Traisengasse S,48.233821,16.383263,11
+Kettenbrückengasse U ,48.196328,16.357468,11
 Aumannplatz,48.228561,16.335125,10
 Längenfeldgasse U,48.18424,16.333886,22
-Althanstraße,48.228936,16.3596,20
+Althanstraße,48.228936,16.3596,17
 Schottentor U,48.214558,16.361492,42
-Neubaugasse U,48.198527,16.35093,13
-Museumsquartier U2,48.202344,16.361117,12
+Neubaugasse U,48.198527,16.35093,8
+Museumsquartier U2,48.202344,16.361117,15
 Johnstrasse U,48.19834,16.318975,13
-Turnergasse,48.193083,16.334103,7
+Turnergasse,48.193083,16.334103,6
 Kutschkergasse,48.225707,16.344196,10
 Stadion U,48.210893,16.420795,2
-Brückengasse,48.19126,16.347918,7
+Brückengasse,48.19126,16.347918,6
 Schuhmeierplatz,48.21069,16.318802,24
-Schönbrunn U,48.185845,16.319898,15
+Schönbrunn U,48.185845,16.319898,13
 Hermesstraße / Oscar-Straus-Park ,48.167976,16.282246,29
 Modecenterstraße / The Marks,48.184348,16.413837,16
 Am Langen Felde,48.250336,16.450206,2
 eLastenräder- Modecenterstraße / The Marks,48.184929,16.413964,1
-Pilgramgasse U,48.192945,16.354936,10
+Pilgramgasse U,48.192945,16.354936,8
 eLastenräder - Am langen Felde,48.250224,16.45065,0
 eLastenräder - Bruno-Marek-Allee 6,48.227914,16.391516,7
-eLastenräder - Am Tabor 23,48.224108,16.391916,2
+eLastenräder - Am Tabor 23,48.224108,16.391916,1
 Franz-Josef Bahnhof,48.225991,16.360327,19
 Siebenbrunnenfeldgasse,48.18142,16.352644,2
 Klima Biennale - Nordwestbahn-Areal,48.233016,16.377393,10
