@@ -33,13 +33,7 @@ services:
       - SPARK_MODE=master
     volumes:
       - ./app:/app
-
-  mongo:
-    image: mongo:latest
-    container_name: my_mongo
-    ports:
-      - "37017:37017"  # Changed port to avoid conflict
-
+      
   jupyter:
     image: jupyter/base-notebook:latest
     container_name: my_jupyter
